@@ -20,9 +20,6 @@ body {
   margin: 0;
 }
 
-body {
-  background-image: url("error404.jpg");
-}
 /* HTML5 display definitions
    ========================================================================== */
 
@@ -93,6 +90,11 @@ a {
   background-color: transparent;
 }
 
+}
+
+body {
+  background-image: url("error404.jpg");
+}
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
