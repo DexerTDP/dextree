@@ -1,3 +1,3 @@
 # Dextree
 
-![dextree](dextree.jpg "dextree")
+![dextree](images/dextree.jpg)
