@@ -89,7 +89,7 @@ template {
  */
 
 a {
-  background-color: black;
+  background-color: none;
 }
 
 body {
@@ -112,7 +112,7 @@ a:hover {
  */
 
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 0px dotted;
 }
 
 /**
